@@ -1,0 +1,54 @@
+-------- Original Message --------
+Subject: [gpca-erwg-ed] Green Party Organization: comments
+Date: Wed, 7 Apr 2004 17:41:32 -0700
+From: Jonathan Lundell <jlundell@greens.org>
+Reply-To: gpca-erwg-ed@cagreens.org
+To: gpca-erwg-ed@cagreens.org
+
+These are comments on the Green Party Organization code section,
+dated 3/28 (SF plenary).
+
+
+7879. "The county council will have the total elected members to
+which it is entitled." This seems like an empty statement. What's the
+point?
+
+WRT the last sentence, we should specify the Method of Equal
+Proportions as the means by which seats are allocated to districts.
+
+7884. "one of the Above"?
+
+Regardless, I think the proper term for a multi-seat choice election
+is NOC, not NOTA.
+
+7887. We say "up to seven", and later "number of members of a county
+council". But a county council can be as few as three, and as many
+as, what, 15? Presumably we mean the latter.
+
+7889. NOC again.
+
+7890. "__th___": what's the second blank for?
+
+7892. July 20: I'm guessing that this was copied from old language
+dating from when we had June primaries. We should probably be saying
+something like "the 20th day of the month following the primary
+election".
+
+Also, NOC. And we should be consistent in capitalizing "liaison" here
+and in the other code section.
+
+7901. "shall the responsibilities"??
+
+7920. "three or more", perhaps?
+
+WRT Jim's comments, if necessary, we should be prepared to propose
+bylaws changes contingent on the passage of these code sections, if
+necessary. The whole thing is obviously going to require bylaws-level
+GA approval anyway.
+
+7943. Implies that a county council member can register DTS and keep
+his/her seat.
+
+7945. This repeats 7920 language. Do we really need to say it twice?
+--
+/Jonathan Lundell.

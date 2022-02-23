@@ -1,0 +1,123 @@
+Hi folks,
+
+Below are my notes on the verbal concerns/questions/comments from
+Sunday's election code discussion, followed by the text of two written
+items that were handed to me after the discussion.  I was not quick
+enough to get verbatim notes, so these give my sense of the core issue/s
+being raised by the speakers, and they may contain errors of
+interpretation or general tone on my part.  Hopefully everyone will
+submit these comments in writing also.
+
+
+~ * ~   Verbal Comments   ~ * ~
+
+Michael Borenstein, El Dorado County:
+
+When will we be submitting the final version of this?
+[Warner answered that the original goal was end of January 2005, but 
+that may be overly optimistic.]
+
+Jean-Marc Chandonia, San Francisco County:
+
+7879:  This section should come before section 
+
+7878, which specifies the number of members of a county council.  
+
+7941:  We should allow non citizens, youth and those with a criminal 
+record to register Green.  
+
+7943:  Who makes the decision about removal of members of county councils?  
+Recall election?  Other method?  
+
+7951:  Replace "committee" with "county council".
+
+Jo Chamberlain, San Mateo County:
+
+6960.5:  We do not have the bylaws referred to in this section.  We 
+must implement those first.  Also, we should specify that this is a 
+nominating convention, since we also have off-year conventions.  
+
+6961:  Could we expand on this?  It sounds like the Secretary of State has 
+too much leeway.  
+
+6962:  Same concern as 6961.  
+
+7878:  We should specify a threshold or formula here.  
+
+7892(c):  What is special about the date of July 20?  
+
+7943:  What happens to those registered as "Decline to State"?  Also, 
+we need to define the procedure for removal of county council members.  
+Whole document:  Use "her" before "him".  Clarify whether we are using 
+Choice Voting or IRV.
+
+David Merlin (sp?), Contra Costa County: Can "Decline to State" voters vote in 
+our elections?  This is not clear to me.  Ken Kohler (sp?), Stanislaus County: 
+Make sure we comply with state law with respect to NOTA, voters with criminal 
+records, etc.  We also need to be concerned about our image if we allow those 
+with criminal records to register Green.  
+
+Kevin McKeown, Los Angeles County: LA's discussion is being typed up, 
+and he will submit it shortly.  He had the following additional comments.  
+Whole document:  Replace "central committee" with "county council".  
+
+6964.5:  Regarding NOTA, we can and should do this.  Basically, 
+"tabulated" = "counted" and we must nail down the terminology.  Allow no loopholes.  
+
+7930:  Instead of specifying 50% female / 50% male electors, specify 
+"at least 50% women".  
+
+Greg Jan, Alameda County: 
+
+7943:  We must make sure we have due process for removal of county 
+council members.  
+
+Michael Feinstein, Los Angeles County: 
+
+6964:  Concern that this gives absolute power to our Liaison to the Secretary of State.  
+
+6964.5:  Regarding the legality of NOTA, the issue with this in the past arose 
+in the scenario in which NOTA would have a plurality but not a majority 
+(i.e., add up all of the votes for actual candidates, and they constitute 
+a majority).  We need to get advice on this, and also on nailing down 
+the "tabulated" terminology.  
+
+7920:  Don't mention the appointment of county council members until we have 
+bylaws in place for this.  
+
+7943:  Recall elections are only allowed for paid elected positions.  We should 
+develop our own process for removal of county council members.  
+
+Tian Harter, Santa Clara County: 
+
+The Secretary of State should write to our Liaison whenever there is 
+information to be shared, and this information should be put into the 
+next Plenary packet.  
+
+Chris Collins, Alameda County (reading someone else's comment): 
+
+6965:  Choice Voting and IRV give us a single winner.  How do we translate 
+these votes to nominating convention delegate numbers?  
+
+~ * ~   Written Comments   ~ * ~
+
+Tian Harter, Santa Clara County: 
+
+"If the Secretary of State has some information s/he wants to share with the 
+Green Party, s/he should put it in a letter and send it to our liaison, with 
+a cover letter asking us to put it in the next plenary packet." 
+
+Larry Mullen, Fresno County: 
+
+"Does the Election Code provision include Green Party use of state buildings 
+for meeting once a month?  Currently, we are included under the Peace and 
+Freedom parts of the Election Code." 
+
+Larry R. Mullen 
+559-227-0293 
+mullenlr@aol.com
+
+~ * ~
+Please let me know if you notice any glaring errors or omissions.  
+I'm really looking forward to our next meeting on this!  
+Best wishes, Valerie Face

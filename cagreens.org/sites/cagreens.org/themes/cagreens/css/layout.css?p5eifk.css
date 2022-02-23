@@ -1,0 +1,134 @@
+
+/* ---------- Basic Layout Styles ----------- */
+
+html,
+body {
+  height: 100%;
+  background: url("../images/bg_gradient.png") repeat-x scroll 0 0 transparent;
+}
+#page {
+  height: 100%;
+  margin: 0 auto;
+  width: 976px;
+}
+#page-wrapper {
+  min-height: 100%;
+  min-width: 960px;
+}
+#header div.section,
+#featured div.section,
+#triptych,
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#footer-columns {
+	float: left;
+	padding: 5px 15px;
+}
+#footer {
+	width: 201px;
+	float: right;
+	text-align: right;
+	padding: 5px 15px;
+}
+#messages div.section {
+  width: auto;
+}
+#header div.section {
+  position: relative;
+}
+.region-header {
+  float: right; /* LTR */
+  margin: 0 5px 10px;
+}
+.with-secondary-menu .region-header {
+  margin-top: 3em;
+}
+.without-secondary-menu .region-header {
+  margin-top: 15px;
+}
+#secondary-menu {
+  position: absolute;
+  right: 0; /* LTR */
+  top: 0;
+  width: 480px;
+}
+#index-content {
+  float: left;
+  width: 631px;
+  padding: 0 5px 5px;
+}
+#sidebar-index {
+  float: left;
+  width: 335px;
+  background: #EBEFE8;
+}
+#content,
+#sidebar-first,
+#sidebar-second,
+.region-triptych-first,
+.region-triptych-middle,
+.region-triptych-last,
+.region-footer-firstcolumn,
+.region-footer-secondcolumn,
+.region-footer-thirdcolumn,
+.region-footer-fourthcolumn {
+  display: inline;
+  float: left; /* LTR */
+  position: relative;
+}
+.one-sidebar #content {
+  width: 720px;
+}
+.two-sidebars #content {
+  width: 480px;
+}
+.no-sidebars #content {
+  width: 960px;
+  float: none;
+}
+#sidebar-first,
+#sidebar-second {
+  width: 240px;
+  background-color: #EBEFE8;
+}
+#sidebar-first {
+margin: 0 10px 0 0 ;
+}
+#main-wrapper {
+  min-height: 300px;
+}
+#content .section,
+.sidebar .section {
+  padding: 0;
+}
+#breadcrumb {
+  margin: 0;
+  padding: 10px 0 3px 20px;
+  background: url("../images/breadcrumb_bk.png") repeat-x scroll 0 0 transparent;
+}
+#footer-wrapper {
+  border-top: 4px solid #4AAA42;
+}
+.region-footer-secondcolumn {
+  padding: 0 10px;
+  width: 220px;
+}
+.region-footer-firstcolumn {
+  color: #339933;
+  font-size: 20px;
+  font-style: italic;
+}
+.region-footer-firstcolumn p {
+  padding: 2px 0 0 0;
+}
+#footer {
+  width: 200px;
+  min-width: 200px;
+  float: right;
+}
+#content .section {
+  padding: 0 20px 30px 20px;
+}
+

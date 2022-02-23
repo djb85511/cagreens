@@ -1,0 +1,161 @@
+-------- Original Message --------
+Subject: Re: Qs re Election Code
+Date: Tue, 27 Jul 2004 20:42:26 -0700
+From: "Stuart Bechman" <sbechman@sbcglobal.net>
+To: Gerry Gras <gerrygras@earthlink.net>
+
+Hi Gerry,
+
+Please find the ERWG Presentation notes at the bottom of this e-mail.
+I took the notes, and I remember feeling a bit overwhelmed with all
+the section-code numbers being thrown around, so I'm hoping you can
+verify/correct the section numbers I've provided in the minutes.
+
+-Stuart
+
+On 27 Jul 2004 at 18:22, Gerry Gras wrote:
+
+ >
+> At the Sacramento plenary the ERWG made a presentation
+> to the plenary about the proposed election code.  And
+> the audience was allowed to ask questions.
+>
+> Do you have the notes from that session, and do they
+> include the questions from the audience?  If so,
+> the ERWG subcommittee dealing with the election code
+> would like a copy.
+>
+> Thanks,
+>
+> Gerry
+>
+
+3) ERWG: GPCA Election Code Discussion
+
+ML, Orange: The next item on the agenda is a discussion item from the
+ERWG, a proposed GP election code.  This is the next step in the
+ongoing effort to create an official Green Party of California
+election code section.
+
+Chris Collins, AC: We have included the language of the proposed
+election code sections in the plenary packet, and we are continuing
+to solicit opinions on the proposed sections.  We would like to hear
+from the general assembly.  We will take your comments and concerns
+and incorporate them into our proposal that we will then bring back
+at our next scheduled plenary in preparation of taking them to the
+state legislature.
+
+Warner Bloomberg, : Please take this document and the Q & Cs back to
+your counties.  We need discussion and suggestions at the county
+level.  What have we missed?  What's left unanswered?  So we ask that
+you all take this material back to your counties and try to get back
+to our working group by the end of July.
+
+MB, ED: When do you plan to put this in front of the legislature?
+
+JMC, SF: In Sec. 78-79, bottom of pg. 12: A section says that County
+Green Parties may modify the size of their county council, and how to
+do so; I would think that section belongs before 78-78.  Also, in 79-
+41, pg. 16, it says no person may be in a county council unless
+they're registered Green in a recognized Green Party local.  We would
+like to have an exception for those who can't otherwise register.  In
+79-43, we'd like to have language allowing how a person can be
+removed from office.  79-51, All meetings of the committee, it should
+probably say meetings of the county council.
+
+WB: OK, we encourage everyone with comments to additionally e-mail or
+send those comments in writing to us.
+
+Jo Chamberlain, SM: I find the election code very annoying, but thank
+you for your work.  69-65: National delegates shall be provided for
+as in the bylaws of the national green party.  We have no such
+bylaws; we probably should change it to say the convention policies.
+I would also ask that the Bylaws committee review this before it is
+brought to the GA for final approval.  Also, it gives the Secy. of
+State the authority to place a presidential nominee on the ballot, I
+would like to see a few more criteria before they can do that.  Sec.
+69-62, we have the same difficulty with the Sec. of State: "The SoS
+may add to their selection of candidates."  78=78, an IRV issue,
+there's no formula or threshold provided; it needs to be stated or
+referred to elsewhere.  Sec. 78=92C, pg. 14, it says that the SoS, no
+later than July 20, can..."  what's special about that date?  Sec. 79-
+43, I concur with JMC's concern:  "Any party member that registers
+with another party..." what about DTS registration?  And recalling of
+a county councilperson, the recall procedures need to be done
+somewhere other than in our bylaws.
+
+David Marin, CC: This issue of whether we let DTS voters vote in our
+primaries.  I'm quite confused about what this proposed code says.
+Also, if we decided to change this, would we have to go back to the
+legislature or do it at a plenary?
+
+Jim Staffer: It's not addressed in this code, it's handled elsewhere.
+
+Ken Culler, Stanislaus: I'm concerned that in our enthusiasm to have
+the most "Green" elections possible, it's possible that we may run
+into trouble with the state election code.  County councilpeople are
+elected; we have to stand for election.  Having ex-cons, etc., as
+county council people is a violation of state law; you have to be a
+voter in good standing, you have to meet the same requirements as any
+other person running for election.  We need to make sure we're not
+violating a state law.
+
+Kevin McKeown, LA: The minutes of our most recent county council
+draft form have just come out, but here's what they've mentioned.
+The term "central committee" is bothersome to us in LA county, and I
+think that there is an effort to redefine them as county councils.
+However, this term continues to be used in this document, we'd like
+to see that removed.  Sec. 63-12, the NOTA votes must be processed,
+tabulated, and counted; I'm not sure that will be enough for our
+county registrar offices to actually county them.  Also, per the
+county council is defined as requiring 50% men and 50% women, we
+suggest changing it to be at least 50% women.
+
+Greg Jan, AC: In addition to the Q of what body does this, there's
+the Q of due process.  I don't know if we'll be able to fit all this
+in this one document, but I think it's imperative that we do.
+
+Mike Feinstein, LA: 69-64. If the SoS receives a comm from the GPCA
+Liaison to the SoS.  As written, this gives the Liaison complete
+power to send whatever letter he wants to the SoS without any further
+criteria.  69-65: NOTA could not win in a plurality; our court case
+had a ruling that said if 55% of voters vote for a candidate, then
+the majority would want a candidate and thus NOTA would fail.  79-20,
+removing county councilmembers: I would say nothing about removing CC
+members until there's a process for that, but JS is talking about
+electing rather than appointing CCs for newly-formed counties, if we
+move in that direction, I'd like to see that applied here.  Also,
+recalls, the state of CA provides for recalls only for PAID offices;
+there is no recall process for non-paid positions such as county
+councilmembers.
+
+Tian Harter, SC: I would like to see some language stating that if
+the SoS has some information s/he wants to share with the GP, they
+should put it in a letter and send it to our Liaison for inclusion in
+the next GPCA plenary.
+
+Chris Collins, AC: Someone asked me to mention a question about
+Ranked-Ballot voting, pg. 8, where it says the GP should use Ranked-
+Ballot voting  Using RBV doesn't really apply to IRV situations, how
+would we apply this language in such situations?
+
+Jim Stauffer:  There's some confusion in the comments between Bylaws
+and Election Code; and there's some things that the SoS are going to
+look for in our proposed code.  So what we'd like to do is simply
+request all of these, prepare a written response, and send it back to
+the counties.
+
+Warner Bloomberg: One, we want to observe Green process; so how long
+this will take is a real unknown.  We want to eventually come up with
+a comprehensive document that will be approved by the state
+legislature.    We had originally hoped to have something to present
+to the state leg. in Jan. 2005; that may be overly optimistic.  The
+point of this is to make us stronger, not tie our hands.  MF's
+comments about NOTA, he's correct about that court decision, what's
+not operative in that decision is the implementation of Choice Voting/IRV.
+
+Chris Collins: Is there anyone who made comments today who would like
+an immediate response rather than wait for a written response on our
+website or otherwise?....OK, great, it appears that everyone's
+willing to wait for a written response.  Our goal is to return this
+document with all concerns expressed at the next plenary.

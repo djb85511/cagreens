@@ -1,0 +1,30 @@
+Hi,
+I wanted to submit the following requested changes to the
+draft election code in writing, to follow up on my statement at the
+plenary.
+
+7879 - the last part of this section (starting with "However, county
+Greeen Parties...") deals with letting counties set their own CC
+size.  This should probably be split out from the rest of 7879, and
+moved before 7878, which describes the default CC size (and uses
+a really bizzare formula, IMO).  In SF, the default formula only
+gives us 9 members, vs the DCCC which has 25!  We lose a lot of
+bar fights with them as a result.
+
+7941 - some people should be able to be appointed to CCs who aren't
+eligible to register Green: non-citizens, youth, etc.  Suggest adding
+the wording ", or lives in that county but is legally unable to
+register to vote".  Another delegate objected to this language,
+suggesting it's illegal, but I think the question of appointed local
+officials is separate to who can run for election (or vote).  Therefore,
+it may be illegal to run for CC as a noncitizen, but it shouldn't
+be illegal to appoint a noncitizen to a vacancy on the CC if we want.
+
+7951 - "committee" should be replaced with "CC" and the words
+"which shall be" deleted.
+
+Thanks,
+JMC
+--
+John-Marc Chandonia (jmc@sfgreens.org)
+http://www.dolorespark.org/

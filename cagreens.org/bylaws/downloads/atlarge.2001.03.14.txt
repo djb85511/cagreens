@@ -1,0 +1,72 @@
+Bylaws Proposal: At-Large CC Election
+(draft 3, 3/14/2001)
+
+Contact: ? 
+
+The following are some proposed bylaw amendments drafted by the Bylaws Committee to enable the CC election changes outlined in the proposal approved during the December 2000 Plenary.
+
+*** For readibility, this plain text version is split into old and new language. ***
+
+____________________________________________________
+NEW LANGUAGE
+
+Section 7-1. Coordinating Committee
+
+7-1.1	Membership
+The State Coordinating Committee comprises up to twenty voting members including fourteen regional representatives and up to six at-large representatives. There are ten regions as determined by the General Assembly. Two regional representatives are allocated to each of the four regions with the largest number of registered green party voters, as determined from the most current California Report of Registration available on January 1st of each year. One regional representative is allocated to each of the remaining six regions. Diversity and gender balance are encouraged through the election of at-large representatives. CC representatives are not eligible for the positions of Treasurer and Liaison to the Secretary of State. 
+
+7-1.1.1	CC Elections and Term of Office
+At the first General Assembly meeting of each year, an election shall be conducted to appoint three at-large representatives and any regional representatives for regional seats whose terms are scheduled to expire within the calendar year unless an alternate regional process has been selected (see selection of regional members, paragraph 7-1.4). Regional representatives shall serve for a term of two years or until their successors are elected. At-large representatives shall serve for a term of two years unless their successors are elected before this time.
+
+7-1.2	Active and Inactive Regions  (deleted)
+
+7-1.3	Duties and Authority  (no change)
+
+7-1.4	Selection of Regional Members  (no change)
+
+7-1.5	Alternate members  (no change)
+
+7-1.6	Selection of At-large Members
+After the regional CC members have been chosen and announced to the General Assembly, the Coordinating Committee shall call for nominations and place the election of at-large members on the agenda of the General Assembly. Green party members who wish to serve as at-large members of the CC must submit an application to serve prior to the General Assembly meeting at which the election would be held. The application shall consist of a detailed biography of the person seeking election and what they wish to accomplish as an at-large CC member. Applications shall be sent to the CC two months before the election is held. The CC shall forward, without prejudice, the applications to the locals for their consideration. The Coordinating Committee shall appoint three election officials to conduct the election in a manner consistent with the following specifications.
+a)	Approval Voting  (no change)
+b)	Instant Runoff Voting (IRV)  (no change)  ??? *** IRV is only used when only one seat is available ***
+c)	Choice Voting  (no change)
+
+7-1.6.1	Delegate packet?
+There must be included with the delegate packet distributed to all county parties, and there must be presented to all delegates present at the General Assembly where an election is to be held, a full and detailed explanation of the voting procedure as is listed above. Specifically, the no other choice option, the fact that delegates should make their choices seriously, and the fact that delegates do not have to fill all seats unless they feel there are enough qualified candidates to fill the vacant positions should be emphasized. 
+
+7-1.6.2	At-Large Vacancies?
+Should a vacancy occur for any at-large CC seat because of failure to elect, resignation, removal, death, or abandonment of the position, an election to fill the vacant seat or seats shall be held at the next General Assembly meeting according to the provisions in items 7.1.6 a-c. This election shall only be held if all previous notice and application procedures as listed in paragraph 7-1.6 take place. However, any at-large CC member elected at a General Assembly meeting other than those specified in paragraph 7-1.6 shall have their term expire as if they were elected as specified in paragraph 7-1.6.
+
+7-1.7	Liaison to the Secretary of State  (no change)
+
+7-1.8	Treasurer  (no change)
+
+____________________________________________________
+OLD LANGUAGE
+
+Section 7-1. Coordinating Committee
+
+7-1.1	Membership and Term of Office
+The State Coordinating Committee will be comprised of 20 voting members. Fourteen members will be selected to provide regional balance. 8 members will come from the largest regions (2 each), with regional size being calculated annually by number of registered green party voters on the 1st registration count after January 1st of each year. 6 members will come from the remaining regions (1 each). Members will also be balanced by gender, age, culture as much as possible and the committee will have 6 additional at large members who will be chosen with this balancing in mind. Voting members of the coordinating committee will serve a term of 1.5 years but shall not vacate their seat until the first business meeting of the General Assembly following the end of the 1.5 year term. In addition, the Liaison to the Secretary of State and the Treasurer shall be non-voting members of the State Coordinating Committee, and may not concurrently hold a voting seat on the Committee.
+
+7-1.2	Active and Inactive Regions
+When a region becomes inactive, as defined in Section 5-4 of these bylaws, the Coordinating Committee seats which it is entitled to elect shall become at-large seats. If the region later becomes active, it shall be entitled to elect members to the next available seat(s). 
+
+7-1.3	Duties and Authority  (no change)
+
+7-1.4	Selection of Regional Members  (no change)
+
+7-1.5	Alternate members  (no change)
+
+7-1.6	Selection of At-large Members
+After the regional CC members have been chosen and announced to the General Assembly, whenever any of the At-large seats are vacant, the Coordinating Committee shall call for nominations and place the election of at-large members on the agenda of the General Assembly. The Coordinating Committee shall appoint three election officials to conduct the election in a manner consistent with the following specifications.
+a)	Approval Voting  (no change)
+b)	Instant Runoff Voting (IRV)  (no change)
+c)	Choice Voting  (no change)
+
+7-1.7	Liaison to the Secretary of State  (no change)
+
+7-1.8	Treasurer  (no change)
+
+____________________________________________________

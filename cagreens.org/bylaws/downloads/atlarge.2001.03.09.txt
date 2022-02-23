@@ -1,0 +1,135 @@
+At-Large CC Election Bylaws Proposal
+(2nd draft by David Shorey, 3/09/2001)
+
+The following is a draft of some bylaw changes that would enable the CC election changes outlined in the proposal approved during the December 2000 Plenary.
+
+------------------------------------------------------
+
+KEY: [abcdef] - deleted language
+ABCDEF - new language
+
+===============================================================
+
+Section 7-1. Coordinating Committee
+
+7-1.1 Membership and Term of Office
+The State Coordinating Committee [will be] IS comprised of [20] TWENTY
+voting members. Fourteen members [will be] ARE selected to provide regional
+balance. [8] EIGHT members [will] ARE TO come from the largest regions ([2]
+TWO each), with regional size being calculated annually by number of
+registered [g]Green [p]Party voters on the [1st] FIRST registration count
+after January 1st of each year. [6] SIX members will come from the remaining
+regions ([1] ONE each). Members [will] ARE also be balanced by gender, age,
+culture as much as possible and the committee will have [6] SIX additional
+at large members who will be chosen with this balancing in mind. THREE
+AT-LARGE COMMITTEE MEMBERS SHALL BE ELECTED AT THE FIRST GENERAL ASSEMBLY OF
+EVEN YEARS AND THREE AT-LARGE COMMITTEE MEMBERS SHALL BE ELECTED AT THE
+FIRST GENERAL ASSEMBLY OF ODD YEARS. Voting members of the coordinating
+committee will
+serve a term of [1.5] TWO years but shall not vacate their seat until the
+first business meeting of the General Assembly following the end of the
+[1.5] TWO year term. In addition, the Liaison to the Secretary of State
+and the Treasurer shall be non-voting members of the State Coordinating
+Committee, and may not concurrently hold a voting seat on the Committee.
+
+7-1.2 Active and Inactive Regions
+When a region becomes inactive, as defined in Article V, section 4 of these
+bylaws, the Coordinating Committee seats which it is entitled to elect shall
+become at-large seats. If the region later becomes active, it shall be
+entitled to elect members to the next available seat(s).
+
+7-1.4 Selection of Regional Members
+a) Regional members will be selected by regional caucus of delegates at
+General Assembly meetings, unless the active counties of a region select
+another process. Any such alternative process must be approved by all the
+County Councils of the active counties of a regions to be effective; and a
+detailed description of the process must be submitted to the Coordinating
+Committee. Regions with two seats are encouraged [to fill at least one seat
+with a woman] TO KEEP GENDER BALANCE AND DIVERSITY IN MIND WHEN SELECTING
+REPRESENTATIVES [to represent the region].
+
+7-1.5 Alternate members
+a) Alternate members may be elected for regional members. Alternates will be
+designated for specific members and will serve for terms concurrent with the
+members for whom they are serving.
+b) An alternate may participate in CC meetings, but may only vote when the
+regular member he/she is an alternate for is not present.
+c) If the regular member vacates his/her Coordinating Committee seat before
+the completion of his/her term, the alternate shall fill the vacated
+position for the remainder of the term for which they were elected.
+
+7-1.6 Selection of At-large Members
+After the Regional CC member have been chosen and announced to the General
+Assembly, whenever any of the At-large seats are vacant, the Coordinating
+Committee shall call for nominations and place the election of At-large
+members on the agenda of the General Assembly. GREEN PARTY MEMBERS WHO WISH
+TO SERVE AS AT-LARGE MEMBERS OF THE COORDINATING COMMITTEE MUST SUBMIT AN
+APPLICATION TO SERVE PRIOR TO THE GENERAL ASSEMBLY MEETING AT WHICH THE
+ELECTION WOULD BE HELD. THE APPLICATION SHALL CONSIST OF A DETAILED
+BIOGRAPHY OF THE PERSON SEEKING ELECTION AND WHAT THEY WISH TO ACCOMPLISH AS
+AN AT-LARGE COORDINATING COMMITTEE MEMBER. APPLICATIONS SHALL BE SENT TO THE
+COORDINATING COMMITTEE TWO MONTHS BEFORE THE ELECTION IS HELD. THE
+COORDINATING COMMITTEE SHALL FORWARD, WITHOUT PREJUDICE, THE APPLICATIONS TO
+THE LOCALS FOR THEIR CONSIDERATION. PROVIDED HOWEVER, THAT THIS SECTION
+SHALL NOT APPLY TO THE ELECTION HELD AT THE GENERAL ASSEMBLY AT WHICH THIS
+LANGUAGE IS ADOPTED. The Coordinating Committee shall appoint three election
+officials to conduct the election in a manner consistent with the following
+specifications.
+
+a)  Approval Voting When Only One Nominee Seeks Office.
+When one nominee seeks office, each delegate will be provided a written
+secret ballot containing the name of the nominee seeking office. The ballot
+will allow the opportunity to indicate a "yes" or "no" preference on the
+seating of the nominee. The nominee must receive "yes" votes on at least
+two-thirds (2/3) of ballots cast to be seated.
+
+b)  Instant Runoff Voting (IRV) When Only One Seat is Vacant and Two or More
+Nominees Seek Office.
+When only one seat is vacant and two or more nominees seek office each
+delegate will be provided a written secret ballot containing the names of
+the nominees seeking office. The names will appear in random order. The
+ballot shall also include a "No other candidate" (NOC) option. The delegates
+will rank the nominees along with the NOC options in order of preference.
+The ballots will be tabulated utilizing instant runoff voting. No nominee
+will be seated who does not cross the threshold before NOC.
+
+c)  Choice Voting When Two or more At-large seats are Vacant and Two or More
+Nominees Seek Office.
+When two or more at-large seats are vacant and two or more nominees seek
+office, each delegate will be provided a written secret ballot containing
+the names of the nominees seeking office. The names will appear in random
+order. The ballot shall also include a "No other candidate" (NOC) option.
+The delegates will rank the nominees along with the NOC option in order of
+preference. The ballots will be tabulated utilizing a "choice" voting system
+with fractional transfers and the use of a Droop threshold based on the
+number of vacant at-large seats. Choice Voting is the Single Transferable
+Vote (STV) form of proportional representation described in the
+International IDEA Handbook of Electoral System Design. (Institute for
+Democracy and Electoral Assistance (IDEA). First published 1997. Second
+edition. Stockholm, Sweden). The Droop threshold is the percentage of votes
+equal to [1] ONE divided by the number of vacant at-large seats plus one
+seat
+{1/(n+1)}. No nominee will be seated who does not cross the threshold before
+NOC.
+
+THERE MUST BE INCLUDED WITH THE DELEGATE PACKET DISTRIBUTED TO ALL COUNTY
+PARTIES, AND THERE MUST BE PRESENTED TO ALL DELEGATES PRESENT AT THE GENERAL
+ASSEMBLY WHERE AN ELECTION IS TO BE HELD, A FULL AND DETAILED EXPLAINATION
+OF THE VOTING PROCEDURE AS IS LISTED ABOVE. SPECIFICALLY, THE NO OTHER
+CHOICE OPTION, THE FACT THAT DELEGATES SHOULD MAKE THEIR CHOICES SERIOUSLY,
+AND THE FACT THAT DELEGATES DO NOT HAVE TO FILL ALL SEATS UNLESS THEY FEEL
+THERE ARE
+ENOUGH QUALIFIED CANDIDATES TO FILL THE VACANT POSITIONS SHOULD BE
+EMPHASISED.
+
+SHOULD A VACANCY OCCUR FOR ANY AT-LARGE COORDINATING COMMITTEE SEAT BECAUSE
+OF FAILURE TO ELECT, RESIGNATION, REMOVAL, DEATH, OR ABANDONMENT OF THE
+POSITION, AN ELECTION TO FILL THE VACANT SEAT OR SEATS SHALL BE HELD AT THE
+NEXT GENERAL ASSEMBLY MEETING ACCORDING TO THE PROVISIONS IN 7.1.6 A-C. THIS
+ELECTION SHALL ONLY BE HELD IF ALL PREVIOUS NOTICE AND APPLICATION
+PROCEDURES AS LISTED IN SECTION 7-1.6 TAKE PLACE . HOWEVER, ANY AT-LARGE
+COORDINATING COMMITTEE MEMBER ELECTED AT A GENERAL ASSEMBLY MEETING OTHER
+THAN THOSE SPECIFIED IN SECTION 7-1.6 SHALL HAVE THEIR TERM EXPIRE AS IF
+THEY WERE ELECTED AS SPECIFIED IN SECTION 7-1.6.
+
+

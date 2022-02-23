@@ -1,0 +1,426 @@
+********   Total responses sorted by Code Number   ********
+
+Comments without Code Number precede the others.
+
+Each comment begins with name of commenter (initials of notetaker)
+
+NOTE: Jonathon Lundell's comments based on code at SF plenary draft,
+other's based on Sac plenary draft.
+
+
+1.
+Michael Borenstein, El Dorado County: (VDF)
+    When will we be submitting the final version of this?
+    [Warner answered that the original goal was end of January 2005, but
+that may be overly optimistic.]
+
+Michael Borenstein, El Dorado County  (SB)
+When do you plan to put this in front of the legislature?
+
+2.
+Jo Chamberlain, San Mateo County: (VDF)
+    Whole document:  Use "her" before "him".  Clarify whether we are using
+Choice Voting or IRV.
+
+3.
+David Marin, Contra Costa County: (VDF)
+    Can "Decline to State" voters vote in our elections?  This is not
+clear to me.
+
+4.
+Ken Kohler, Stanislaus County: (VDF)
+   Make sure we comply with state law with respect to NOTA, voters with
+criminal records, etc.  We also need to be concerned about our image if
+we allow those with criminal records to register Green.
+
+Ken Kohler, Stanislaus County: (SB)
+I'm concerned that in our enthusiasm to have
+the most "Green" elections possible, it's possible that we may run
+into trouble with the state election code.  County councilpeople are
+elected; we have to stand for election.  Having ex-cons, etc., as
+county council people is a violation of state law; you have to be a
+voter in good standing, you have to meet the same requirements as any
+other person running for election.  We need to make sure we're not
+violating a state law.
+
+5.
+Kevin McKeown, Los Angeles County: (VDF)
+    Whole document:  Replace "central committee" with "county council".
+
+Kevin McKeown, Los Angeles County: (SB)
+The minutes of our most recent county council
+draft form have just come out, but here's what they've mentioned.
+The term "central committee" is bothersome to us in LA county, and I
+think that there is an effort to redefine them as county councils.
+However, this term continues to be used in this document, we'd like
+to see that removed.
+
+6.
+Tian Harter, Santa Clara County: (VDF)
+    The Secretary of State should write to our Liaison whenever there is
+information to be shared, and this information should be put into the
+next Plenary packet.
+
+Tian Harter, Santa Clara County: (TH)
+    "If the Secretary of State has some information s/he wants to share
+with the Green Party, s/he should put it in a letter and send it to our
+liaison, with a cover letter asking us to put it in the next plenary
+packet."
+
+Tian Harter, Santa Clara County: (SB)
+I would like to see some language stating that if
+the SoS has some information s/he wants to share with the GP, they
+should put it in a letter and send it to our Liaison for inclusion in
+the next GPCA plenary.
+
+7.
+Larry Mullen, Fresno County: (VDF)
+    "Does the Election Code provision include Green Party use of state
+buildings for meeting once a month?  Currently, we are included under the
+Peace and Freedom parts of the Election Code."
+
+8.
+Chris Collins, Alameda County (reading someone else's comment): (SB)
+Someone asked me to mention a question about
+Ranked-Ballot voting, pg. 8, where it says the GP should use Ranked-
+Ballot voting  Using RBV doesn't really apply to IRV situations, how
+would we apply this language in such situations?
+
+
+****** Presidential Primary: comments ******
+
+These are comments on the Presidential Primary code section.
+
+9.
+Jonathon Lundell, San Mateo County (JL)
+Title & 6960. There's a sort of side-mention in 6965.6 saying that
+all this applies to other offices as well. That's presumably what we
+want, so how about making it general from the get-go, including the
+title?
+
+10.
+Jonathon Lundell, San Mateo County (JL)
+6960.5 & Jim's concerns. In an IRV election, is "NOTA" a reasonable
+term? I'd have thought NOC might be more to the point. A voter can
+vote for one or more "of the above" and then NOC, after all.
+
+11.
+Jo Chamberlain, San Mateo County: (VDF)
+    6960.5:  We do not have the bylaws referred to in this section.  We
+must implement those first.  Also, we should specify that this is a
+nominating convention, since we also have off-year conventions.
+
+12.
+Jonathon Lundell, San Mateo County (JL)
+6960.7. may -> shall
+
+13.
+Jo Chamberlain, San Mateo County: (VDF)
+    6961:  Could we expand on this?  It sounds like the Secretary of State
+has too much leeway.
+
+Jo Chamberlain, San Mateo County: (VDF)
+    6962:  Same concern as 6961.
+
+Jo Chamberlain, San Mateo County: (SB)
+69-62, we have the same difficulty with the Sec. of State: "The SoS
+may add to their selection of candidates."
+
+14.
+Jonathon Lundell, San Mateo County (JL)
+6963.5. Is the timing for nomination papers specified elsewhere?
+
+15.
+Michael Feinstein, Los Angeles County: (VDF)
+    6964:  Concern that this gives absolute power to our Liaison to the
+Secretary of State.
+
+Michael Feinstein, Los Angeles County: (SB)
+69-64. If the SoS receives a comm from the GPCA
+Liaison to the SoS.  As written, this gives the Liaison complete
+power to send whatever letter he wants to the SoS without any further
+criteria.
+
+16.
+Kevin McKeown, Los Angeles County: (VDF)
+    6964.5:  Regarding NOTA, we can and should do this.  Basically,
+"tabulated" = "counted" and we must nail down the terminology.  Allow no
+loopholes.
+
+Kevin McKeown, Los Angeles County: (SB)
+63-12 [6964.5?] the NOTA votes must be processed,
+tabulated, and counted; I'm not sure that will be enough for our
+
+17.
+Michael Feinstein, Los Angeles County: (VDF)
+    6964.5:  Regarding the legality of NOTA, the issue with this in the
+past arose in the scenario in which NOTA would have a plurality but not a
+majority (i.e., add up all of the votes for actual candidates, and they
+constitute a majority).  We need to get advice on this, and also on
+nailing down the "tabulated" terminology.
+
+Michael Feinstein, Los Angeles County: (SB)
+69-65: NOTA could not win in a plurality; our court case
+had a ruling that said if 55% of voters vote for a candidate, then
+the majority would want a candidate and thus NOTA would fail.
+
+18.
+Jonathon Lundell, San Mateo County (JL)
+6955. [6965??] Choice voting is appropriate for elections that fill 
+multiple
+seats. For our primaries, that'd only be the case for the State Board
+of Equalization. All the other offices want IRV, not Choice.
+
+19.
+Jo Chamberlain, San Mateo County: (SB)
+69-65: National delegates shall be provided for
+as in the bylaws of the national green party.  We have no such
+bylaws; we probably should change it to say the convention policies.
+I would also ask that the Bylaws committee review this before it is
+brought to the GA for final approval.  Also, it gives the Secy. of
+State the authority to place a presidential nominee on the ballot, I
+would like to see a few more criteria before they can do that.
+
+20.
+Chris Collins, Alameda County (reading someone else's comment): (VDF)
+    6965:  Choice Voting and IRV give us a single winner.  How do we
+translate these votes to nominating convention delegate numbers?
+
+21.
+Jonathon Lundell, San Mateo County (JL)
+6965.6. This isn't a sentence.
+
+22.
+Jonathon Lundell, San Mateo County (JL)
+6968. Delete first comma.
+county registrar offices to actually county them.
+
+23.
+Jonathon Lundell, San Mateo County (JL)
+6973. This sentence reads sort of funny. "Upon filing ... <something>
+shall be printed...". But nothing gets printed "upon filing"; the
+phrase implies timing.
+
+24.
+Jonathon Lundell, San Mateo County (JL)
+6975.5. I'd strongly recommend a reference to our bylaws &
+procedures. It's likely to change over time, and we don't want to
+have to go through this again to adapt.
+
+25.
+Jonathon Lundell, San Mateo County (JL)
+6975.7. No, for a lot of reasons. This raises the question, though,
+of whether we want to specify IRV for the presidential primary. IRV
+does not really rank its results; order of IRV elimination is not a
+particularly good measure of overall preference rank, and it
+certainly doesn't give proportional results for allocating delegates.
+
+
+
+****** Green Party Organization: comments ******
+
+These are comments on the Green Party Organization code section.
+
+
+26.
+Jo Chamberlain, San Mateo County: (VDF)
+    7878:  We should specify a threshold or formula here.
+
+Jo Chamberlain, San Mateo County: (SB)
+78=78, an IRV issue,
+there's no formula or threshold provided; it needs to be stated or
+referred to elsewhere.
+
+27.
+Jo Chamberlain, San Mateo County: (SB)
+7879. "The county council will have the total elected members to
+which it is entitled." This seems like an empty statement. What's the
+point?
+WRT the last sentence, we should specify the Method of Equal
+Proportions as the means by which seats are allocated to districts.
+
+28.
+John-Marc Chandonia, San Francisco County: (JMC)
+7879 - the last part of this section (starting with "However, county
+Greeen Parties...") deals with letting counties set their own CC
+size.  This should probably be split out from the rest of 7879, and
+moved before 7878, which describes the default CC size (and uses
+a really bizzare formula, IMO).  In SF, the default formula only
+gives us 9 members, vs the DCCC which has 25!  We lose a lot of
+bar fights with them as a result.
+
+John-Marc Chandonia, San Francisco County: (VDF)
+    7879:  This section should come before section 7878, which specifies
+the number of members of a county council.
+
+John-Marc Chandonia, San Francisco County: (SB)
+In Sec. 78-79, bottom of pg. 12: A section says that County
+Green Parties may modify the size of their county council, and how to
+do so; I would think that section belongs before 78-78.
+
+29.
+Jonathon Lundell, San Mateo County (JL)
+7884. "one of the Above"?
+Regardless, I think the proper term for a multi-seat choice election
+is NOC, not NOTA.
+
+30.
+Jonathon Lundell, San Mateo County (JL)
+7887. We say "up to seven", and later "number of members of a county
+council". But a county council can be as few as three, and as many
+as, what, 15? Presumably we mean the latter.
+
+31.
+Jonathon Lundell, San Mateo County (JL)
+7889. NOC again.
+
+32.
+Jonathon Lundell, San Mateo County (JL)
+7890. "__th___": what's the second blank for?
+
+33.
+Jonathon Lundell, San Mateo County (JL)
+7892. July 20: I'm guessing that this was copied from old language
+dating from when we had June primaries. We should probably be saying
+something like "the 20th day of the month following the primary
+election".
+Also, NOC. And we should be consistent in capitalizing "liaison" here
+and in the other code section.
+
+34.
+Jo Chamberlain, San Mateo County: (VDF)
+    7892(c):  What is special about the date of July 20?
+
+Jo Chamberlain, San Mateo County: (SB)
+78=92C, pg. 14, it says that the SoS, no
+later than July 20, can..."  what's special about that date?
+
+35.
+Jonathon Lundell, San Mateo County (JL)
+7901. "shall the responsibilities"??
+
+36.
+Jonathon Lundell, San Mateo County (JL)
+7920. "three or more", perhaps?
+WRT Jim's comments, if necessary, we should be prepared to propose
+bylaws changes contingent on the passage of these code sections, if
+necessary. The whole thing is obviously going to require bylaws-level
+GA approval anyway.
+
+37.
+Michael Feinstein, Los Angeles County: (VDF)
+    7920:  Don't mention the appointment of county council members until
+we have bylaws in place for this.
+
+Michael Feinstein, Los Angeles County: (SB)
+79-20,
+removing county councilmembers: I would say nothing about removing CC
+members until there's a process for that, but JS is talking about
+electing rather than appointing CCs for newly-formed counties, if we
+move in that direction, I'd like to see that applied here.
+
+38.
+Kevin McKeown, Los Angeles County: (VDF)
+    7930:  Instead of specifying 50% female / 50% male electors, specify
+"at least 50% women".
+
+Kevin McKeown, Los Angeles County: (SB)
+[7930?] Also, per the
+county council is defined as requiring 50% men and 50% women, we
+suggest changing it to be at least 50% women.
+
+39.
+John-Marc Chandonia, San Francisco County: (JMC)
+7941 - some people should be able to be appointed to CCs who aren't
+eligible to register Green: non-citizens, youth, etc.  Suggest adding
+the wording ", or lives in that county but is legally unable to
+register to vote".  Another delegate objected to this language,
+suggesting it's illegal, but I think the question of appointed local
+officials is separate to who can run for election (or vote).  Therefore,
+it may be illegal to run for CC as a noncitizen, but it shouldn't
+be illegal to appoint a noncitizen to a vacancy on the CC if we want.
+
+Johnn-Marc Chandonia, San Francisco County: (VDF)
+    7941:  We should allow non citizens, youth and those with a criminal
+record to register Green.
+
+John-Marc Chandonia, San Francisco County: (SB)
+Also, in 79-
+41, pg. 16, it says no person may be in a county council unless
+they're registered Green in a recognized Green Party local.  We would
+like to have an exception for those who can't otherwise register.
+
+40.
+Jonathon Lundell, San Mateo County (JL)
+7943. Implies that a county council member can register DTS and keep
+his/her seat.
+
+41.
+John-Marc Chandonia, San Francisco County: (VDF)
+    7943:  Who makes the decision about removal of members of county
+councils?  Recall election?  Other method?
+
+John-Marc Chandonia, San Francisco County: (SB)
+In 79-43, we'd like to have language allowing how a person can be
+removed from office.
+
+42.
+Jo Chamberlain, San Mateo County: (VDF)
+    7943:  What happens to those registered as "Decline to State"?
+
+Jo Chamberlain, San Mateo County: (SB)
+79-43, I concur with JMC's concern:  "Any party member that registers
+with another party..." what about DTS registration?  And recalling of
+a county councilperson, the recall procedures need to be done
+somewhere other than in our bylaws.
+
+43.
+Jo Chamberlain, San Mateo County: (VDF)
+    7943:  Also,
+we need to define the procedure for removal of county council members.
+
+44.
+Greg Jan, Alameda County: (VDF)
+    7943:  We must make sure we have due process for removal of county
+council members.
+
+Greg Jan, Alameda County: (SB)
+[7943?] In addition to the Q of what body does this, there's
+the Q of due process.  I don't know if we'll be able to fit all this
+in this one document, but I think it's imperative that we do.
+
+45.
+Michael Feinstein, Los Angeles County: (VDF)
+    7943:  Recall elections are only allowed for paid elected positions.
+We should develop our own process for removal of county council members.
+
+Michael Feinstein, Los Angeles County: (SB)
+[7943?] Also,
+recalls, the state of CA provides for recalls only for PAID offices;
+there is no recall process for non-paid positions such as county
+councilmembers.
+
+46.
+David Marin, Contra Costa County: (SB)
+[7943??] This issue of whether we let DTS voters vote in our
+primaries.  I'm quite confused about what this proposed code says.
+Also, if we decided to change this, would we have to go back to the
+legislature or do it at a plenary?
+
+47.
+Jonathon Lundell, San Mateo County (JL)
+7945. This repeats 7920 language. Do we really need to say it twice?
+
+48.
+John-Marc Chandonia, San Francisco County: (JMC)
+7951 - "committee" should be replaced with "CC" and the words
+"which shall be" deleted.
+
+John-Marc Chandonia, San Francisco County: (VDF)
+    7951:  Replace "committee" with "county council".
+
+John-Marc Chandonia, San Francisco County: (SB)
+79-51, All meetings of the committee, it should
+probably say meetings of the county council.
+
+=============================================================

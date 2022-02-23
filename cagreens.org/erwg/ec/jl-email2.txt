@@ -1,0 +1,47 @@
+-------- Original Message --------
+Subject: [gpca-erwg-ed] Presidential Primary: comments
+Date: Wed, 7 Apr 2004 15:39:51 -0700
+From: Jonathan Lundell <jlundell@greens.org>
+Reply-To: gpca-erwg-ed@cagreens.org
+To: gpca-erwg-ed@cagreens.org
+References: <20040407100637.A2132@eorbit.net>
+
+These are comments on the Presidential Primary code section, dated
+3/27 (SF plenary).
+
+Title & 6960. There's a sort of side-mention in 6965.6 saying that
+all this applies to other offices as well. That's presumably what we
+want, so how about making it general from the get-go, including the
+title?
+
+6960.5 & Jim's concerns. In an IRV election, is "NOTA" a reasonable
+term? I'd have thought NOC might be more to the point. A voter can
+vote for one or more "of the above" and then NOC, after all.
+
+6960.7. may -> shall
+
+6963.5. Is the timing for nomination papers specified elsewhere?
+
+6955. Choice voting is appropriate for elections that fill multiple
+seats. For our primaries, that'd only be the case for the State Board
+of Equalization. All the other offices want IRV, not Choice.
+
+6965.6. This isn't a sentence.
+
+6968. Delete first comma.
+
+6973. This sentence reads sort of funny. "Upon filing ... <something>
+shall be printed...". But nothing gets printed "upon filing"; the
+phrase implies timing.
+
+6975.5. I'd strongly recommend a reference to our bylaws &
+procedures. It's likely to change over time, and we don't want to
+have to go through this again to adapt.
+
+6975.7. No, for a lot of reasons. This raises the question, though,
+of whether we want to specify IRV for the presidential primary. IRV
+does not really rank its results; order of IRV elimination is not a
+particularly good measure of overall preference rank, and it
+certainly doesn't give proportional results for allocating delegates.
+--
+/Jonathan Lundell.

@@ -1,0 +1,530 @@
+
+GPCA Bylaws, April 2000
+
+
+- 1 -
+
+
+
+
+
+
+
+
+
+Bylaws of the
+Green Party of California
+
+
+(Last amended on August 1999. New format adopted April 2000)
+
+
+
+
+
+
+
+
+This document contains the rules and guidelines currently governing the Green Party of California which have been approved by the General Assembly at state plenaries.
+
+
+
+
+5/02/2000 rn
+
+
+
+Bylaws Format
+
+These bylaws are organized around a heirarchal outline structure represented by Articles, Sections, Paragraphs, and Items as follows:
+
+On the top of this hierarchy are several Articles, indentified by sequential numbers and a large, bold, sans-serif type font (in this document by 12 pt Helvetica Bold).
+
+Each Article is subdivided into Sections, also identified by sequential numbers (of the form x-y, where x is the Article and y is the Section) and a medium, bold, serif-type font (in this document by 11 pt Times New Roman bold).
+
+Each Section is subdivided into Paragraphs, also identified by sequential numbers (of the form x-y.z, where x-y is the Article and Section, and z is the Paragraph) and a small, non-bold, serif type font (in this document by 10 pt Times New Roman).
+
+Paragraphs may also be further subdivided into Items, indented and identified sequentially by small letters and the same font as Paragraphs.
+
+Items may also be further subdivided into Sub-Items, indented twice and identified sequentially by numbers and the same font as Paragraphs.
+
+An example of this stucture follows:
+
+Article 12. This is an Article
+Section 12-1. This is the first Section of Article 12
+12-1.1	This is the first Paragraph of Section 12-1.
+a)	This is the first Item in Paragraph 12-1.1
+1.	This is the first Subitem of Item 12-1.1a
+b)	This is the second Item.
+12-1.2	This is the second Paragraph of Section 12-1.
+
+
+
+
+
+Document Version
+
+This edition of the Bylaws of the Green Party of California is current as of 5/02/2000 and reflects amendments adopted by the August 1999 GPCA General Assembly at Santa Barbara and formatting changes adopted by the Bylaws Committee during the April 2000 Plenary in Berkeley. The most current version of this document is available at the GPCA Bylaws Committee website (http://www.greens.org/cal/bylaws).
+
+Comments & suggestions may be directed to Ricardo Newbery, 5917 Vale Way, San Diego, CA, 92115 (newbery@sdgreens.org).
+
+
+
+Table of Contents
+Article 1.	Name 	4
+Article 2.	Purpose 	4
+Article 3.	Structure 	4
+Section 3-1. County Bodies 
+Article 4.	Membership 	4
+Section 4-1. County Councils
+Section 4-2. Delegate Selection to General Assembly
+Article 5.	Meetings 	7
+Section 5-1. Regular Meetings 
+Section 5-2. Special Meetings 
+Section 5-3. Agenda 
+Section 5-4. Quorum 
+Section 5-5. Guests & Observers 
+Section 5-6. Meeting Roles, Duties, & Responsibilities 
+Section 5-7. Participation in General Assembly Decision-Making 
+Section 5-8. The Function of General Assembly Committees in Meetings 
+Section 5-9. Decision-Making at GPCA Meetings 
+Article 6.	Committees - Formation & Function 	12
+Section 6-1. Establishment of Committees 
+Section 6-2. Accountability 
+Section 6-3. Statement of Purposes 
+Section 6-4. Membership of Committees 
+Section 6-5. Qualifications for Voting 
+Section 6-6. Open Meetings 
+Section 6-7. Committee Coordinators 
+Article 7.	Standing Committees of the General Assembly 	14
+Section 7-1. Coordinating Committee 
+Section 7-2. Platform Committee 
+Section 7-3. Bylaws & Rules Committee 
+Section 7-4. International Working Group 
+Section 7-5. Candidates & Campaigns Committee 
+Section 7-6. Education & Media Committee 
+Section 7-7. Credentials Committee 
+Section 7-8. Alliance Building Committee 
+Section 7-9. Goals & Strategy Committee 
+Section 7-10. Finance & Funding Committee 
+Section 7-12. Initiatives Committee 
+Section 7-13. Social Justice Working Group 
+Section 7-14. Mediation Committee 
+Article 8.	Endorsements and Resolutions 	17
+Section 8-1. Statewide Endorsement Procedure 
+Section 8-2. Resolution on Ratification of Platform 
+Article 9.	Amendment of Bylaws 	18
+Section 9-1. Initiation of Amendment 
+Section 9-2. Ratification of Amendment 
+
+Article 1. Name
+The name of this organization is the Green Party of California.
+Article 2. Purpose
+(unadopted)
+Article 3. Structure
+Section 3-1. County Bodies
+3-1.1	County legal requirements
+For county delegates to be seated, the county must adopt bylaws including the following points:
+a)	Specify a delegate selection process;
+b)	Define membership;
+c)	Specify a decision-making process for county council and county organizations;
+d)	Have a process for filling county council vacancies;
+e)	Define the relationship between local organizations and the county council; 
+f)	Name a Treasurer.
+Article 4. Membership
+Section 4-1. County Councils
+41.1	Members
+a)	When county councils elected:
+At each direct primary election, members of county councils shall be elected in each county. Counties are encouraged to hold caucuses to choose a slate of gender-balanced candidates.
+b)	Grounds for removal:
+Any member of the county council may be removed if they:
+1.	Register as a member of another political party, or
+2.	Violate the bylaws of the state plenary or county.
+41.2	Registration figures 
+For the purposes of this section the registration figures used shall be those taken from the statement of voters and their political affiliations transmitted by the county clerks to the Secretary of State on the 135th day prior to the next direct primary election.
+41.3	Number of members to be elected
+If the county has less than 150 registered Green Party voters, the number of members to be elected in that county will be three. Otherwise, the number of members of the county council to be elected shall be the greater of:
+a)	The number seven, or
+b)	The integer nearest the resulting quotient obtained by dividing 100 times the number of Green Party registered voters in the county by the number of Green Party registered voters in the state.
+41.4	Method of electing members:
+Members of County Councils shall be elected from one or more multi-member districts using Choice Voting, the Single Transferable Vote (STV) form of proportional representation, using the Droop threshold (one divided by one plus the number of seats) and fractional transfers as described in the International IDEA Handbook of Electoral System Design (Institute for Democracy and Electoral Assistance(IDEA). First published 1997. Second edition. Stockholm, Sweden. pp.83-84). The multi-member districts shall conform to the county boundaries or the boundaries of Congressional, State Assembly, State Senate or Supervisorial districts in accordance with the county¹s bylaws.
+41.5	Optional county council selection process:
+Counties may choose to modify the method of selecting their county council or the size of their county council by notifying the State Coordinating Committee who shall in turn notify the Secretary of State no later than 135 days prior to the direct primary election.
+41.6	Number to be elected from election district.
+The county will have the total elected members to which it is entitled. The number to be elected for each district will be the number for the proportion of registered Green Party voters in that district. 
+41.7	Computation of members allotted (county)
+The Secretary of State, no later than the 125th day before the direct primary election, shall compute the number of members of county councils to be elected in each county and shall mail a certificate to that effect to the county clerk of each county, to the Green Party State Coordinating Committee and to each Green Party County Council.
+41.8	Computation of members allotted (election district)
+The county clerk, no later than the 115th day before the direct primary election, shall compute the number of members of county councils to be elected in each election district if the election is by election district.
+41.9	Conditions for candidate's name to appear on ballot
+In each county, the name of each candidate for member of county councils shall appear on the ballot only if she or he has:
+a)	Filed a nomination paper pursuant to Division 6 (commencing with Section 6000) of the Elections Code, signed in the candidate's behalf by Green Party voters in the election district in which she or he is a candidate, and
+b)	Registered to vote in the Green Party.
+41.10	Residence of candidate (county)
+A candidate may seek election only in the multi-member district in which she or he resides.
+41.11	Number of sponsors
+Notwithstanding any other provision of this code, the number of sponsors which shall be required of a person to be a candidate for member of county council shall be the lesser of:
+a)	20, or
+b)	Not less than 2 percent of the number of voters registered as affiliated with the Green Party in the county council election district. 
+41.12	Number of sponsors (election district)
+Notwithstanding any provision of the Elections Code, up to seven candidates for member of county council in a single election district may have their names listed on a single sponsor's certificate, and the signatures thereon shall be counted toward the sponsor requirement of each and every candidate whose name is listed on the certificate. In no case shall the number of candidates having their names on a sponsor's certificate exceed the number of members of the county council to be elected in the district. 
+41.13	Order of names on ballot
+The appearance of the names of the candidates for member of county council on the ballot shall be determined by a public drawing held at the time, place and manner prescribed for determining the order of names of county central committee members pursuant to Chapter 2 (commencing with Section 10200) of Division 8 of the Elections Code.
+41.14	Form of direct primary ballot
+The office of member of county council shall be placed on the direct primary ballot under the heading "Party County Council" in the place and manner designated for the office of county central committee pursuant to Chapter 2 (commencing with Section 10200) of Division 8 of the Elections Code.
+41.15	Conditions for election of candidate
+No write-in candidate for member of county council shall be declared elected, however, unless that candidate has received a number of first choice votes equal to or greater than 2 percent of the number of party members voting in the county council election district at the direct primary or 20 votes, whichever is less.
+41.16	Recognition by General Assembly of elected county councils
+At the first General Assembly following the election of county councils, the General Assembly shall automatically confirm and recognize the members of the county councils certified by local county election officials.
+41.17	Certificate of election
+A certificate of election shall be issued to each elected member of county councils by the officers charged with that duty of issuing certificates of election to members of county central committees under Section 6615 of the Elections Code.
+41.18	Report of votes cast
+The votes cast for each candidate for member of county council shall be included in the canvass and statement of results in a manner similar to the vote for each candidate for county central committee pursuant to Division 12 (commencing with Section 17000) of the Elections Code.
+41.19	Certification to Secretary of State
+The final total of votes cast for each candidate for member of county council, including the name, address and ballot designation of each such candidate, and a specification as to which candidates were declared elected shall be certified to the Secretary of State forthwith upon completion of the official canvass. The county clerk shall simultaneously send one copy of this final certification to the Green Party State Coordinating Committee.
+41.20	Certified list of elected members
+As soon as practicable after the direct primary election, the Secretary of State shall prepare a certified list by county of all elected Green Party members of county councils, including their addresses and primary election ballot designations. The Secretary of State shall send copies of the list to the registrar of voters in each county on or before the 20th day of July following the direct primary election. This list shall be maintained for public inspection by said registrars of voters until a subsequent such list is received.
+41.21	Notice sent to elected county council members
+The Secretary of State, no later than July 20th following the direct primary election, shall send a notice by mail to each of the elected members of county councils which shall inform that person of the following: 
+a)	That he or she has been elected as a member of the county council. 
+b)	The date, time, and location of the next state plenary meeting. The Secretary of State shall send with this notice a copy of the certified list of all elected members of all county councils.
+41.22	New County Organizations
+In counties where the Green Party is newly organized, or in counties which have been organized, but in which no County Council candidates qualified for the primary ballot, County Council members may be approved in the following manner:
+a)	The county organization must hold a General Meeting open to all registered Greens in the county. The time and location of this meeting must be publicized as widely as possible at least 14 days before the meeting, and at least three people registered as Green party voters from the county must attend the meeting for the decisions of the meeting to be valid. 
+b)	The county must have, or must adopt at this General Meeting, bylaws which establish rules as specified in section 3-1.2 of these bylaws, including rules for filling County Council vacancies;
+c)	The General Meeting must elect at least one member to the County Council;
+d)	The State Coordinating Committee regional representatives from the region in which the county is located shall make every effort to ascertain that the new County Council has been legally elected and truly represents the County organization of the Green Party in that county; 
+e)	The State Coordinating Committee shall, at the recommendation of the Coordinating Committee regional representatives from the region in which the county is located, certify the new County Council;
+f)	The State Coordinating Committee must certify the new County Council unless there is clear evidence that the Council was illegally elected; 
+g)	Any certification decision by the State Coordinating Committee may be appealed to the next meeting of the General Assembly of the California Green Party which may reverse the decision of the State Coordinating Committee.
+Section 4-2. Delegate Selection to General Assembly
+4-2.1	Election of Delegates
+Delegates to the General Assembly will be chosen by the active county organizations of the Green Party of California. The process by which delegates are elected by each county organization must be defined by the bylaws of each county; and a written copy of the current method of selection must be on file with the Coordinating Committee and the Bylaws Working Group. If a county organization fails to specify a delegate selection process, then the delegates of that county will be elected by the County Council.
+4-2.2	Delegate selection formula
+a)	The General Assembly of the Green Party of California will consist of at least 100 delegates. Each active county organization shall have at least one delegate.
+b)	No later than six weeks before the beginning of the General Assembly, the Liason to the Secretary of State, or another individual designated by the Coordinating Committee, shall obtain the most recent Report of Registration from the Secretary of State. The Liason, or the individual designated by the Coordinating Committee, after consulting with the Coordinating Committee reps, the Credentials Committee, and any other appropriate individuals, shall make a determination based on Article Five, Section 4.2 of these bylaws as to which GP county organizations are active.
+c)	Once this determination has been made, the total number of Green registrants in the active counties shall be added together. Each active county with 4.99% or less of the total shall be assigned one delegate, plus one additional delegate for each whole percentage number of the total achieved. Active counties with more than 4.99% shall be assigned a delegate for each whole percentage number of the total achieved.
+d)	If fewer than 100 delegates have been assigned up to this point, then additional delegates shall be assigned to each of the counties with more than 1% of the total, the county with highest fractional percentage receiving a delegate, then next highest, and so on until the total of 100 has been assigned.
+e)	If after (c) above, more than 100 delegates have been assigned, then one delegate shall be removed from each county with more than one delegate, beginning with the county with the lowest fractional percentage, then the next lowest, and so on until only 100 delegates remain.
+f)	If, after the determination of delegates has been made, more counties are found to be active before the beginning of the General Assembly by the Liason, the Coordinating Committee, or the Credentials Committee, then the new counties will be assigned the number of delegates equal to the whole percentage number of the active total previously determined in (c) above, with no county receiving less than one delegate. In this case, the General Assembly will have more than 100 delegates.
+Article 5. Meetings
+Section 5-1. Regular Meetings
+51.1	Meeting frequency
+General Assembly shall meet at least twice a year. Date and location for next meeting will be determined by the close of each meeting. 
+Section 5-2. Special Meetings
+52.1	The General Assembly may hold special meetings in the following ways;
+a)	upon call of the Coordinating Committee.
+b)	upon agreement of delegates at a General Assembly meeting (fallback 2/3 vote).
+Section 5-3. Agenda
+53.1	Proposed agenda
+Establishing agenda for all regular General Assembly meetings and special meetings is the responsibility of the Coordinating Committee. 
+53.2	Draft agenda
+The CC has the task of collecting items, proposing an agenda and circulating a draft at least 3 weeks in advance of a meeting. 
+53.3	Agenda package
+The agenda package will include General Assembly committee draft proposals submitted by a General Assembly committee coordinator for pre-meeting consideration by the locals.
+53.4	Agenda ratification
+Ratification of the proposed agenda and times will occur at the beginning of the Saturday session.
+Section 5-4. Quorum
+54.1	Quorum
+A quorum will exist for the purpose of opening a meeting when 2/3 (rounding to the nearest whole number) of the regions containing active counties are represented.
+54.2	Criterion for active county status
+For the purposes of this section, an active county shall be defined as fulfilling at least one of the following conditions:
+a)	The county has a County Council;
+b)	The county has sent delegates to at least two of the last three meetings;
+c)	The county has held a General Meeting within the last six months in which at least eight registered Greens were present, and delegates to the General Assembly were chosen. The county must notify the State Coordinating Committee that the General Meeting has taken place.
+5-4.3	Quorum for decisionmaking
+A quorum for decision making will exist when 80% of registered delegates are present.
+a)	Delegates will sign in at the beginning of each session, identifying region and county.
+b)	Facilitators will conduct a role call to establish a quorum at the beginning of each plenary session.
+Section 5-5. Guests & Observers
+55.1	Open meetings
+General Assembly meetings are public and open to observers. 
+55.2	Observer registration and identification
+a)	Guests and Green Party Observers will register with the host committee/door keepers.
+b)	For purposes of identification by the facilitation team, delegates, Green Party observers, and guests will wear different colored name badges. 
+Section 5-6. Meeting Roles, Duties, & Responsibilities
+56.1	Facilitation Team
+a)	Coordinating Committee will present a team to the General Assembly for approval at the beginning of each plenary session
+b)	Team provides non-directive leadership, process clarity, honors agenda contract, promotes good will; a facilitator does not give personal opinions unless clearly stepping out of her/his role as a facilitator. 
+c)	Responsibilities: must be registered Green Party voter (if eligible to vote in CA), must have a working knowledge of "formal consensus" as defined in the GREEN PARTY OF CALIFORNIA, must be in agreement with the "key values" of the GCoC, must have a working knowledge of the GREEN PARTY OF CALIFORNIA bylaws and guidelines, must be experienced at facilitation or have attended a workshop on same.
+d)	The use of gender-stacking; that is that the order of the "stack" would alternate; one woman-one man, shall be considered as first choice for use by the facilitators.
+56.2	Minutes/Note Taker(s)
+a)	Coordinating Committee, facilitation team, and/or hosting committee will provide at least one note taker for each plenary session.
+b)	Note takers will compile an accurate record of the session highlighting decisions made and tasks taken on by delegates or others.
+c)	Note takers will receive from committee leaders, copies of the committee proposals to be presented to the plenary. These will be included in the record as received and as amended during the session with notation as to disposition of the proposal.
+d)	Minutes of every statewide meeting will include a status report from each functioning General Assembly committee.
+e)	The Coordinating Committee has the responsibility to see that minutes are properly recorded and gathered together at the close of a General Assembly meeting.
+f)	In a timely manner, a copy of the draft minutes will be sent to each region and uploaded to EcoNet in the green.party conference. 
+56.3	Meeting Scribe
+a)	The facilitation team will find a person to act as a public scribe for the purpose of writing on a board, or large piece of paper, those concerns or items of discussion that come out in the plenary sessions. 
+56.4	Timekeeper
+a)	A timekeeper will work with the facilitation team to guide the group through the agenda contract.
+5-6.5	Vibes Watcher(s)
+a)	Vibes watcher(s) are presented to the General Assembly by the facilitation team before the session begins.
+b)	Vibes watchers are keepers of the group's cool - they pay attention to the overall mood or tone of the meeting. Only vibes watchers may interrupt the proceedings at any time to call for a time-out, break or to remind us all of our shared values and goals.
+56.6	Doorkeeper(s)
+a)	Coordinating Committee, facilitation team, or hosting committee will arrange for someone to be a doorkeeper at each General Assembly session.
+b)	Doorkeeper(s) will see that all persons sign-in and receive delegate or guest information packets.
+c)	Doorkeeper will keep a running record of delegates in the meeting room and be prepared to provide this to the facilitation team at all times. 
+56.7	General Assembly Delegates
+a)	Delegates will sign-in before the first plenary session listing their county. 
+b)	Delegates will be familiar with the bylaws and guidelines. 
+c)	Delegates assume the responsibility to participate in all General Assembly sessions contracted in the agenda.
+d)	If a delegate must leave the meeting before the agenda has been completed, she/he will notify the facilitation team so that they will have an option to move to critical agenda items before the departure. 
+Section 5-7. Participation in General Assembly Decision-Making 
+57.1	Priority to authorized delegates
+Authorized delegates representing locals will be given priority in decision-making discussions. At the discretion of the facilitation team, and time permitting, observing Green Party members and guests will participate in these discussions.
+57.2	Orientation
+All persons intending to participate in General Assembly meetings will first attend the meeting orientation session.
+57.3	Voting
+In the event that a vote is necessary to make a General Assembly decision, only authorized delegates will participate.
+Section 5-8. The Function of General Assembly Committees in Meetings
+58.1	Proposals
+General Assembly committees receive, screen, develop, and present action proposals. 
+58.2	Role of presenter
+General Assembly committees will act in the role of advocate for the proposals they present to the General Assembly.
+a)	The presenter will disclose to the General Assembly whether the committee brings the proposal forward with consensus or by a vote. If by a vote, the details of the vote will be presented.
+58.3	Execution of proposal
+When adopted by the full General Assembly, the committee proposals are executed by the committee and the California Green Party.
+58.4	Committee reports
+Every General Assembly committee will file a report with the Coordinating Committee at the close of each statewide meeting for inclusion in the recorded minutes of the meeting. The report will include: 
+a)	The name, phone number and address of the committee coordinator(s).
+b)	The EcoNet address for the committee.
+c)	A list of the active members of the committee.
+d)	Status report on the committee's activities.
+Section 5-9. Decision-Making at GPCA Meetings
+59.1	Consensus
+Decisions of the Green Party of California shall be made at General Assemblies of the Green Party of California using a consensus-seeking process as follows:
+a)	Consensus is sought after adequate discussion, including the repeated asking for and discussion of any unresolved concerns, within the time and content limits of the agenda.
+b)	Any stand-asides will be recorded.
+c)	In calling for a consensus, any unresolved concerns will be recorded, and those unresolved concerns will signal a move to a vote.
+d)	Voting will be on the basis of a two-third majority for business and procedural questions, and an 80% majority to amend, repeal, or replace bylaws and to make policy decisions.
+e)	If there is a question as to which voting count to use, the higher percentage will be needed for a vote.
+59.2	Items presented in proposal form
+Items being presented before the General Assembly for a decision will be in the form of proposals advocated by one of the General Assembly committees. 
+59.3	Assignment of uncertain items
+The Coordinating Committee will receive, for consideration, those items falling into areas where committee assignment is uncertain. 
+59.4	Allotment of discussion time
+The Coordinating Committee, in consultation with the agenda planners and the General Assembly committee coordinators, will assign each committee a finite amount of time before the General Assembly in plenary session. Times will be listed for presentation of the proposals and for discussion/approval. These times will be reviewed and ratified as an agenda contract at the beginning of each day's meeting.
+59.5	Role of committee coordinator
+The committee coordinator, or her/his assignee, will act as a "floor manager" for this block of time. The floor manager will assign proposals to the appropriate presenter for submission to the General Assembly. 
+59.6	Guidelines for prioritization
+The committees will use the time allotted for proposals, reports, brainstorming, workshops, etc. within the following guidelines for prioritization:
+a)	Proposals to advocate before the General Assembly.
+1.	Committee generated material.
+2.	Non-GPCA generated material.
+b)	Other material, workshops, etc.
+59.7	Presentation of a proposal before a meeting
+a)	If possible, the committees will circulate proposals in the pre-meeting agenda package (and by EcoNet) to the locals.
+59.8	Presentation of a proposal at a General Assembly meeting 
+a)	General Assembly committee coordinator (presenter) gives a written copy of the proposal to the minutes takers. At the same time, copies are given to delegates or a copy is posted by the scribe.
+b)	The presenter provides a brief statement on the background of the proposal and how the committee has decided to bring it before the General Assembly for decision.
+c)	The presenter reads the proposal which includes:
+1.	What action is required by the Green Party of California? 
+2.	What timetable is anticipated for completion?
+3.	Who will be accountable to report progress to the General Assembly? 
+4.	What are the budgetary implications of adoption?
+d)	Time is given in the agenda for delegates to review the proposals from the committees. 
+59.9	Details of process flow
+a)	The facilitation team determines if a quorum exists. 
+b)	General Assembly committee presenter for a given proposal answers "clarifying questions" from delegates.
+c)	Facilitation team checks for affirmations and concerns.
+1.	Concerns are listed by the scribe where all can see them. 
+2.	Facilitation team gets a feel for everyone's assessment of the proposal. 
+d)	The group seeks to resolve those concerns deemed legitimate by incorporating them into the proposal - presenter must agree to modifications before they can be made. Note takers read back any modifications to be sure they are properly recorded.
+e)	The facilitation team asks if there remain any unresolved concerns. 
+1.	If there are no remaining concerns, the proposal is adopted with the plan for implementation.
+2.	If concerns remain, go to the next level for resolution. 
+f)	The facilitation team asks those holding concerns if they are willing to allow the group to adopt the proposal without their approval, having their unresolved concerns listed with the plan for implementation.
+1.	If those holding such concerns are agreeable, these "stand aside" concerns are recorded with the note takers and included in the minutes with the adopted proposal.
+2.	If the person holding a concern is unwilling to stand aside, the facilitation team moves to the next level to seek a resolution. 
+g)	The facilitation team addresses the remaining concerns one at a time as follows:
+1.	The concern is restated.
+2.	Questions clarify the concern.
+3.	Discussion focuses on the single concern.
+h)	The facilitation team asks if all concerns are resolved. 
+1.	If yes, the proposal is adopted; stand asides are recorded with the implementation plan.
+2.	If no, facilitation team asks for stand asides.
+3.	If concern remains and is unwilling to stand aside, go to the closing options.
+i)	Closing options are the prerogative of the presenter and the advocating committee. They include:
+1.	Return the proposal to committee for further refinement and an attempt to resolve the legitimate concerns raised.
+2.	Suggest the empowerment of an ad hoc group made up of representatives of the remaining concerns and advocates of the proposal to reach some fair resolution and:
+	i) to act on behalf of the Green Party if time is critical in the matter or
+	ii) to return to a subsequent plenary with a recommendation for adoption. 
+3.	Request additional time in the plenary to reach a resolution of any remaining concerns.
+4.	Request that the General Assembly use the voting option. 
+j)	Requests for additional agenda time for an item will include a specific number of minutes and whether the time will be added to the length of the meeting or if it will come from some other item. An 80% vote of the delegates is necessary to approve the request for more time.
+k)	Voting.
+When the closing option of voting is selected by the presenter of the proposal, the facilitation team will proceed in the following steps: 
+1.	The note taker will be asked to read the proposal as it stands. 
+2.	The scribe will record the vote of the delegates where all can see it by "yes", "no" and "abstain".
+3.	The facilitation team will call a role and record each delegate vote with the help of the doorkeeper.
+4.	2/3 vote is necessary to approve a "business" item.
+5.	80% vote is necessary to approve a "policy" item.
+6.	If uncertain, the 80% figure is necessary.
+7.	Abstentions are not counted in calculating the percentage vote, however if 20% or more of those voting abstain, the proposal fails.
+8.	The roll call recorded vote will be included in the meeting minutes. 
+l)	When time runs out....
+The time keeper will notify the facilitation team when three minutes remain in the time allotted for a proposal. At this point, the presenter will decide on a closing option.
+59.10	Points of order
+a)	Any delegate may signal the facilitation team (by raising two hands) on a POINT OF CLARIFICATION if they do not understand the procedure or they believe a violation of these procedures has taken place. In doing so, they must identify at the outset which item in these procedures is at issue. 
+1.	The facilitation team will rule on the point of clarification. 
+b)	Any delegate may signal the facilitation team on a POINT OF PROCEDURE if they have a procedural suggestion that they feel will aid or improve the facilitation of the discussion. Signal with two hands.
+c)	A POINT OF INFORMATION may be asked for at any time: 
+1.	By the facilitation team when there is an item of information that is important to the discussion;
+ or
+2.	By a note taker when there is some item of information that is important to record.
+59.11	Consent Calendar
+a)	The Coordinating Committee may place on the agenda a consent calendar, of proposals judged to be noncontroversal. These proposals may be approved without presentations, clarifying questions, or debate.
+b)	Any proposals so presented must have been made available in written form to the county organizations and the delegates prior to the meeting (but in no case later than the agenda packet); and any proposal that receives any objection at the time it is presented will be removed from the consent calendar before approval.
+c)	The Coordinating Committee shall assign each proposal on the consent calendar to a committee on a contingency basis. Any proposal removed from the consent calendar by objection shall be assigned to its contingent committee for consideration.
+d)	After consideration by the committee to which it was assigned, the proposal may then be presented to the General Assembly for approval.
+Article 6. Committees - Formation & Function
+Section 6-1. Establishment of Committees
+61.1	Standing Committees
+A standing committee may be established or dissolved by a two-thirds majority vote of the General Assembly of the Green Party of California. 
+61.2	Ad Hoc Committees
+An ad-hoc committee may be established by a two-thirds majority vote of a General Assembly, or, in the absence of a meeting of the general body, by a two-thirds majority vote of the Coordinating Committee. Ad-hoc committees shall serve until the completion of the work for which they were established. An ad-hoc committee will be dissolved by the body which established it.
+61.3	Sub-Committees
+a)	A sub-committee may be established by a two-thirds majority vote of any established committee.
+b)	A sub-committee may be dissolved by a two-thirds majority vote of the committee that established it.
+Section 6-2. Accountability
+62.1	General committee accountability
+Any committee is an arm of the body which establishes it, and it is directly responsible to that body, except that an ad-hoc committee established by the Coordinating Committee in the absence of a General Assembly, is also responsible to the General Assembly.
+Section 6-3. Statement of Purposes
+63.1	General responsibilities
+Every standing committee must have a statement of purpose, scope, and powers. This statement must be approved as follows: for each standing committee, by a General Assembly; for each ad hoc committee, by a General Assembly or by the Coordinating Committee; for each subcommittee, by the General Assembly or the committee of which it is a subcommittee. 
+Section 6-4. Membership of Committees
+64.1	Voluntary membership
+Membership of committees will be on a voluntary basis. Committees, however, may control their own membership with respect to the number of members, the skills of members, and the performance of members, as may be required to meet the needs of the committee.
+64.2	Active and Inactive Members
+"Active members" shall be those members who have worked with a committee from one General Assembly to the next, and who have adequately completed all of their assignments and fulfilled all of their responsibilities. All active committee members must attend meetings and undertake and complete assignments as a part of their committee work. Members who fail to meet these requirements shall be considered inactive members of the committee. Members who remain inactive members for more than two consecutive state General Assemblies may be removed from the committee by a two thirds majority vote of the active members of the committee. Failure to attend meetings or complete work may be excused by 2/3 vote of the committee membership.
+Section 6-5. Qualifications for Voting
+65.1	Voting within committees
+Committees may have both active and inactive members. Only active members of committees may vote in committee decisions. The co-coordinators will prepare a list of the active and inactive members at the start of each General Assembly. This list will determine the status of members of the committee until the next General Assembly.
+Section 6-6. Open Meetings
+66.1	Participation in committees
+Committee meetings shall be open to all members of the California Green Party. Members, other than active committee members, wishing to address the committee, or participate in the discussions of the committee may do so at the discretion of the active members. Any active member may request closure on any issue under discussion. A two-thirds majority is required to carry the motion for closure.
+Section 6-7. Committee Coordinators
+67.1	Establishment of two cocoordinators
+Committee co-coordinators shall be elected by the committee, subject to the approval of the General Assembly. The term of office shall be 18 months; if there are two co-coordinators, their terms shall be staggered and set nine months apart. The responsibilities of the committee coordinators will include:
+a)	Establishing the committee agenda for the next General Assembly. 
+b)	Facilitating the assignment of committee tasks and responsibilities. 
+c)	Coordinating the activities of the committee between General Assemblies. 
+d)	Presenting committee proposals, resolutions, recommendations, etc. to the General Assembly.
+e)	Filing reports to Coordinating Committee at close of General Assembly.
+
+Article 7. Standing Committees of the General Assembly
+The standing committees of the General Assembly shall be as follows: 
+Section 7-1. Coordinating Committee
+71.1	Membership and Term of Office
+The State Coordinating Committee will be comprised of 20 voting members. Fourteen members will be selected to provide regional balance. 8 members will come from the largest regions (2 each), with regional size being calculated annually by number of registered green party voters on the 1st registration count after January 1st of each year. 6 members will come from the remaining regions (1 each). Members will also be balanced by gender, age, culture as much as possible and the committee will have 6 additional at large members who will be chosen with this balancing in mind. Voting members of the coordinating committee will serve a term of 1.5 years but shall not vacate their seat until the first business meeting of the General Assembly following the end of the 1.5 year term. In addition, the Liaison to the Secretary of State and the Treasurer shall be nonvoting members of the State Coordinating Committee, and may not concurrently hold a voting seat on the Committee.
+71.2	Active and Inactive Regions
+When a region becomes inactive, as defined in Article V, section 4 of these bylaws, the Coordinating Committee seats which it is entitled to elect shall become atlarge seats. If the region later becomes active, it shall be entitled to elect members to the next available seat(s). 
+71.3	Duties and Authority
+The coordinating committee will be generally responsible for coordinating meetings, internal communications and other administrative tasks, including the following:
+a)	Establish agenda and select facilitators for general meetings. 
+b)	Monitor and assist committee work and refer matters to committees. 
+c)	Request and receive regular reports from committees. 
+d)	Authorize and ratify specific expenditures
+e)	Authorize and carry out the decisions of the GPCA general membership and make executive decisions (but not set policy) between General Assembly meetings.
+f)	May make statements in the name of the party
+g)	Is authorized to retain legal council on behalf of the GPCA. 
+h)	Is authorized to make decisions which legal counsel advises. 
+71.4	Selection of Regional Members
+a)	Regional members will be selected by regional caucus of delegates at General Assembly meetings, unless the active counties of a region select another process. Any such alternative process must be approved by all the County Councils of the active counties of a regions to be effective; and a detailed description of the process must be submitted to the Coordinating Committee. Regions with two seats are encouraged to fill at least one seat with a woman to represent the region.
+71.5	Alternate members
+a)	Alternate members may be elected for regional members. Alternates will be designated for specific members and will serve for terms concurrent with the members for whom they are serving.
+b)	An alternate may participate in CC meetings, but may only vote when the regular member he/she is an alternate for is not present.
+c)	If the regular member vacates his/her Coordinating Committee seat before the completion of his/her term, the alternate shall fill the vacated position for the remainder of the term for which they were elected.
+7-1.6	Selection of At-large Members
+After the Regional CC member have been chosen and announced to the General Assembly, whenever any of the At-large seats are vacant, the Coordinating Committee shall call for nominations and place the election of At-large members on the agenda of the General Assembly. The Coordinating Committee shall appoint three election officials to conduct the election in a manner consistent with the following specifications.
+a)	Approval Voting When Only One Nominee Seeks Office.
+When one nominee seeks office, each delegate will be provided a written secret ballot containing the name of the nominee seeking office. The ballot will allow the opportunity to indicate a "yes" or "no" preference on the seating of the nominee. The nominee must receive "yes" votes on at least two-thirds (2/3) of ballots cast to be seated.
+b)	Instant Runoff Voting (IRV) When Only One Seat is Vacant and Two or More Nominees Seek Office.
+When only one seat is vacant and two or more nominees seek office each delegate will be provided a written secret ballot containing the names of the nominees seeking office. The names will appear in random order. The ballot shall also include a "No other candidate" (NOC) option. The delegates will rank the nominees along with the NOC options in order of preference. The ballots will be tabulated utilizing instant runoff voting. No nominee will be seated who does not cross the threshold before NOC.
+c)	Choice Voting When Two or more At-large seats are Vacant and Two or More Nominees Seek Office.
+When two or more at-large seats are vacant and two or more nominees seek office, each delegate will be provided a written secret ballot containing the names of the nominees seeking office. The names will appear in random order. The ballot shall also include a "No other candidate" (NOC) option. The delegates will rank the nominees along with the NOC option in order of preference. The ballots will be tabulated utilizing a "choice" voting system with fractional transfers and the use of a Hare threshold based on the number of vacant at-large seats. Choice Voting is the Single Transferable Vote (STV) form of proportional representation described in the International IDEA Handbook of Electoral System Design. (Institute for Democracy and Electoral Assistance (IDEA). First published 1997. Second edition. Stockholm, Sweden). The Hare threshold is the percentage of votes equal to 1 divided by the number of vacant at-large seats (1/N). No nominee will be seated who does not cross the threshold before NOC.
+71.7	Liaison to the Secretary of State
+The Liaison to the Secretary of State is the official contact of the GPCA with the State of California and with other organizations. The term of the Liaison shall be two years, beginning in oddnumbered years: the Liaison shall be nominated by the Coordinating Committee, and subject to the confirmation of the first meeting of the General Assembly in oddnumbered years. The Coordinating Committee shall immediately fill any vacancy in the office of Liaison, subject to the confirmation of the next meeting of the General Assembly.
+71.8	Treasurer
+The Treasurer of the Green Party of California shall open and maintain bank accounts, keep financial records, and produce regular financial reports for the Green Party of California. The Treasurer shall also carry out any other duties appropriate and customary to the office of Treasurer. The term of the Treasurer shall be two years, beginning in oddnumbered years: the Treasurer shall be nominated by the Coordinating Committee, and subject to the confirmation of the first meeting of the General Assembly in oddnumbered years. The Coordinating Committee shall immediately fill any vacancy in the office of Treasurer, subject to the confirmation of the next meeting of the General Assembly.
+Section 7-2. Platform Committee
+Section 7-3. Bylaws & Rules Committee
+Section 7-4. International Working Group
+Section 7-5. Candidates & Campaigns Committee
+Section 7-6. Education & Media Committee
+Section 7-7. Credentials Committee
+77.1	Purpose
+The purpose of the Credentials Committee is to determine the qualifications of individuals presenting themselves as delegates to the General Assembly of the GPCA, to make decisions when there are disputes as to whether individuals are or are not delegates, and to aid in every way possible to make sure that county organizations are properly represented at the General Assembly.
+7-7.2	Membership
+The Credentials Committee will consist of five members chosen by each General Assembly for the succeeding General Assembly. The Coordinating Committee may appoint members to fill any vacancies which may occur on the Credentials Committee.
+7-7.3	Authority
+The Credentials Committee shall have the power to decide whether or not particular individuals are legitimate delegates to the GPCA General Assembly. Decisions of the Credentials Committee may be appealed to the General Assembly.
+7-7.4	Duties
+The Credentials Committee will assist the host committee with the signing-in of delegates. The Credentials Committee will also be responsible for establishing a quorum prior to the opening of a plenary session of the General Assembly.
+7-7.5	Disputes
+The Credentials Committee may refer disputes internal to a county to the mediation committee.
+Section 7-8. Alliance Building Committee
+Section 7-9. Goals & Strategy Committee
+Section 7-10. Finance & Funding Committee
+7-10.1	Establishing the annual budget
+a)	A permanent Budget Committee will be comprised of four members: two members of the Finance Committee and two members of the Coordinating Committee. Members from the Finance Committee shall include the state treasurer and one at-large member. The state treasurer shall serve on the budget working group for the duration of his/her tenure. The at-large member shall serve for a non-repeating terms of one year. Members from the Coordinating Committee shall include the Coordinating Committee liason to the Finance Committee and one at-large member. The liason to the Finance Committee shall serve on the budget working group for the duration of his/her tenure. The at-large member shall serve for a non-repeating term of one year.
+b)	After September 30 of each year, the Budget Committee will determine the total amount of funds to be made available for next year¹s annual budget.
+c)	In no case, may the total amount determined for the calendar year budget exceed the estimated revenues for the upcoming year, as established by the Finance Committee.
+7-10.2	Submitting budget requests
+a)	Existing state committees and working groups established by the Green Party of California will submit the Request for Budget form to any member of the Coordinating Committee no later than September 30. Requests will include the amount anticipated to cover annual expenses of the group for the next calendar year.
+b)	State committees and working groups formed during the year will complete and submit a request for Budget form to any member of the Coordinating Committee immediately following the first meeting of the committee or working group. Requests will include the amount anticipated to cover expenses of the group for the remainder of the current year. If the first meeting of the group is after September 30, the group will also submit a Request for Budget form the next calendar year.
+c)	Request for Budget forms for annual budgets received by any member of the Coordinating Committee will be forwarded to a member of the Budget Committee prior to the annual budget allocation meeting.
+d)	Requesting a budget for all expenditures related to statewide mailings or the hosting of statewide meetings will be the responsibility of the Coordinating Committee.
+e)	Requests for out-of-budget emergency funds may be made at any time, subject to availability of funds. Refer to paragraph 8 below.
+7-10.3	Allocating the budget
+a)	After September 30 of each year, the Budget Committee will conduct a meeting to allocate the annual budget to the groups from which a Request for Budget from has been received. The allocation meeting may be concurrent with the meeting to determine the total amount of funds available for the next year¹s annual budget.
+b)	In no case may the total allocated to various groups exceed the total amount determined for the calendar year budget.
+7-10.4	Approving the budget
+a)	On the first day of the first meeting of the General Assembly following the budget allocation by the Budget Committee, the General Assembly will approve the annual budget for the next calendar year. The first proposal will be to consense to the entire state budget. If the proposal to approve the entire budget fails, consensus will be attempted for each line item in the budget.
+b)	The state treasurer is empowered to disburse funds up to the limit of the approved budget for each group upon receipt of the properly completed Request for Payment forms.
+7-10.5	Requesting Expenditures
+a)	State Committees and working groups will submit a Request for Payment form to the state treasurer. The form must be signed by the coordinator of the working group. The Coordinating Committee will designate an individual to sign a Request for Payment form on behalf of the Coordinating Committee.
+b)	Requesting expenditures related to statewide mailings or the hosting of statewide meetings will be the responsibility of the Coordinating Committee.
+c)	For expenses to be reimbursed from the state treasurer, the form must be accompanied by copies of receipts for all expenses incurred. For funds requested in advance of expenditure, the form must specify the purpose of the disbursement.
+7-10.6	Disbursing the funds
+a)	Immediately upon receipt of a properly executed Request for Payment form, the state treasurer shall issue a check for the amount indicated to the payeee designated in the form.
+b)	In no case may the treasurer issue funds in excess of the amount allocated to the group for the calendar year. Funds requested in excess of the annual budget amount will be subject to the Emergency Funding provisions; refer to paragraph 8 below.
+7-10.7	Reporting expenditures
+	Following each check issued on behalf of a state committee or working group, the state treasurer shall issue a brief statement to the coordinator of the group stating the amount of funds disbursed year to date and the remaining budget allocation. In the case of the Coordinating Committee, the statement shall be given to the liason to the Finance Committee.
+7-10.8	Emergency funding
+a)	The treasurer shall report any Request for Payment which is in excess of a group¹s budgeted amount to the Coordinating Committee for action.
+b)	The Coordinating Committee may request emergency funding directly from the state treasurer for any state committee or working group.
+c)	In an emergency, the Coordinating Committee may consense to approve an expenditure of funds on behalf of the General Assembly. Any funds disbursed under this provision must be reported to the plenary session on the first day of the next meeting of the General Assembly.
+Section 7-12. Initiatives Committee
+Section 7-13. Social Justice Working Group
+Section 7-14. Mediation Committee
+714.1	Membership
+For purposes of resolving disputes within the Green Party, the General Assembly shall elect a standing Mediation panel chosen from candidates who are members of the Green Party, nominated for their ability to mediate conflicts. Panel members shall not be members of the Coordinating Committee.
+714.2	Procedure for action
+Upon application from any constituent bodies or at least five members of the Green Party, the Coordinating Committee shall assign a mediator from the panel. The parties to dispute shall bear the cost of mediation as determined by the mediation process. Participation in mediation or arbitration shall be voluntary. Locals are encouraged to develop their own mediation process.
+Article 8. Endorsements and Resolutions
+Section 8-1. Statewide Endorsement Procedure
+81.1	Endorsement process for statewide initiatives
+Each local (definition: active county) has input on whether to endorse an initiative. Information will flow through a liaison in each region, to the regional representative, to the Endorsement Coordinator to determine if the GP is giving an official endorsement. 50% of the regions must report in to establish a quorum.
+Section 8-2. Resolution on Ratification of Platform
+82.1	Platform approval
+The platform shall be approved at the statewide meeting by the plenary. 
+82.2	Platform amendments procedure
+The state platform can be amended with the approval of the state body. 
+Article 9. Amendment of Bylaws
+Section 9-1. Initiation of Amendment
+('amendment' refers to changing the bylaws in any way, including both deletions and additions)
+91.1	Methods of initiation
+An amendment to the bylaws can be initiated in one of three ways: 
+a)	by the Bylaws Committee, or
+b)	at the request of a 2/3 majority of the plenary at a General Assembly meeting, either as a result of group discussion or at the request of a delegate, or
+c)	by a local group sending a proposal for amendment to the Bylaws Committee or to the Coordinating Committee.
+91.2	Role of Bylaws Committee
+a)	Any proposed amendment to the Bylaws except a) above must then go to the Bylaws Committee, which will discuss, confer with the author(s), refine if necessary, and analyze the effect on the Bylaws as a whole. The Bylaws Committee may recommend to the author(s) that a proposed amendment should be withdrawn, but the decision to withdraw or not is entirely the author's. 
+b)	The Bylaws Committee will circulate a draft of that proposed amendment to the counties at least three weeks prior to the next General Assembly. It is the responsibility of the Bylaws Committee to present the proposed amendment to the General Assembly for discussion and possible ratification. 
+Section 9-2. Ratification of Amendment.
+92.1	Eighty percent required
+Any amendment to the bylaws must be ratified by at least an 80% roll call vote of the General Assembly.
+
