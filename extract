@@ -1,0 +1,15 @@
+# Line 1 find all files of name *.html
+# Line 2 extract the <div class = "content">
+# save to outFile
+# replace original file with outFile
+
+#!/bin/bash
+for f in $(find . -name '*.html');
+    do
+      htmlq -f $f -o ./outFile -- ".content" ;
+      mv ./outFile $f;      
+    done
+
+
+
+
